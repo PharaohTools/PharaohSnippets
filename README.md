@@ -1,11 +1,6 @@
 Pharaoh Tools Toys and Templates
 --------------------------------
 
-We want all of these ideally
-
-
-
-
 
 Hello World - DONE
 
@@ -56,11 +51,13 @@ Show Detailed Node Information
 
 Ping a Machine - DONE
 
-Test if a port is responding
+Test if a port is responding - DONE
 
-Ensure a Service is running
+See which process is running on a port - DONE
 
-Ensure a Service will run after reboot
+Ensure a Service is running - DONE
+
+Ensure a Service will run after reboot - DONE
 
 
 
