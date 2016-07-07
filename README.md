@@ -40,7 +40,7 @@ Use a Packaged Virtual Machine
 Configuration
 ------------------------------
 
-Kill a Process
+Kill a Process - DONE
 
 Copy a file locally
 
@@ -54,7 +54,7 @@ Show Basic Node Information
 
 Show Detailed Node Information
 
-Ping a Machine
+Ping a Machine - DONE
 
 Test if a port is responding
 
