@@ -5,9 +5,15 @@ We want all of these ideally
 
 
 
+
+
+Hello World - DONE
+
+
+
 Infrastructure
 --------------------------------
-Create a new single server on Digital Ocean
+Create a new single server on Digital Ocean - DONE
 
 Create a new single server on Rackspace - DONE
 
