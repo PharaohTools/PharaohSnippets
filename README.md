@@ -16,6 +16,8 @@ Create a new single server on AWS
 
 Create a Load Balancer on Rackspace
 
+Create a Manageable Domain on Rackspace
+
 Create a DNS Record on Rackspace
 
 
