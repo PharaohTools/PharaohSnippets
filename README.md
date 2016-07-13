@@ -2,6 +2,10 @@ Pharaoh Tools Toys and Templates
 --------------------------------
 
 
+To run any of these, first [install Pharaoh Tools](http://pharaohtools.com/install "install Pharaoh Tools"). Then, go to
+the directory containing this repo at the command line
+
+
 Hello World - DONE
 
 
@@ -39,7 +43,7 @@ Configuration
 
 Kill a Process - DONE
 
-Copy a file locally
+Copy a file locally - DONE
 
 SFTP a file to a remote
 
