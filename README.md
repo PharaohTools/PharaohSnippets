@@ -5,6 +5,9 @@ Pharaoh Tools Toys and Templates
 To run any of these, first [install Pharaoh Tools](http://pharaohtools.com/install "install Pharaoh Tools"). Then, go to
 the directory containing this repo at the command line
 
+    git clone https://github.com/PharaohTools/PharaohSnippets.git
+    cd PharaohSnippets
+
 
 Hello World
 
