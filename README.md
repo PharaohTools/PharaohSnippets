@@ -83,6 +83,9 @@ SFTP get a file from a remote
 
 Install a templated file
 
+    ptconfigure auto x --af=templating/install-file.dsl.php
+
+
 Create a New SSH Key without Passphrase
 
     ptconfigure auto x --af=system_detection/basic-info.dsl.php
@@ -99,7 +102,6 @@ Show Basic Node Information
 
 
 Show Detailed Node Information
-
 
 Ping a Machine
 
