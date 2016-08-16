@@ -71,11 +71,27 @@ Copy a file locally
     ptconfigure auto x --af=copy/copy.dsl.php
 
 
-SFTP a file to a remote
+SFTP put a file to a remote
+
+    ptconfigure auto x --af=sftp/sftp-put-environment.dsl.php
+
+
+SFTP get a file from a remote
+
+    ptconfigure auto x --af=sftp/sftp-get-environment.dsl.php
+
 
 Install a templated file
 
-Create a New SSH Key
+Create a New SSH Key without Passphrase
+
+    ptconfigure auto x --af=system_detection/basic-info.dsl.php
+
+
+Create a New SSH Key with Passphrase
+
+    ptconfigure auto x --af=system_detection/basic-info.dsl.php
+
 
 Show Basic Node Information
 
