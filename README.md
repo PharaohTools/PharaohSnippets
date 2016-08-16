@@ -2,12 +2,18 @@ Pharaoh Tools Toys and Templates
 --------------------------------
 
 
+
+Installation
+--------------------------------
 To run any of these, first [install Pharaoh Tools](http://pharaohtools.com/install "install Pharaoh Tools"). Then, go to
-the directory containing this repo at the command line
+ the command line, clone this repository, and change into that directory.
 
     git clone https://github.com/PharaohTools/PharaohSnippets.git
     cd PharaohSnippets
 
+
+Usage Example
+--------------------------------
 
 Hello World
 
@@ -34,6 +40,8 @@ Create a Load Balancer on Rackspace
 Create a Manageable Domain on Rackspace
 
 Create a DNS Record on Rackspace
+
+    ptconfigure auto x --af=ensure_dns_record_rackspace/ensure_dns_record.dsl.php
 
 
 
