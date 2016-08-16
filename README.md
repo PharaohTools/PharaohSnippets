@@ -39,6 +39,9 @@ Create a Load Balancer on Rackspace
 
 Create a Manageable Domain on Rackspace
 
+    ptconfigure auto x --af=ensure_domin_record_rackspace/ensure_domain.dsl.php
+
+
 Create a DNS Record on Rackspace
 
     ptconfigure auto x --af=ensure_dns_record_rackspace/ensure_dns_record.dsl.php
