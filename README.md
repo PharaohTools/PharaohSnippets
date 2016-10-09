@@ -12,12 +12,20 @@ To run any of these, first [install Pharaoh Tools](http://pharaohtools.com/insta
     cd PharaohSnippets
 
 
-Usage Example
+Usage Examples
 --------------------------------
 
 Hello World
 
     ptconfigure auto x --af=hello_world/hello_world.dsl.php
+
+Using a Variable in a DSL
+
+    ptconfigure auto x --af=variables/variables.dsl.php --vars=variables/my_variable_file.php
+
+Using a Parameter in a DSL
+
+    ptconfigure auto x --af=parameters/parameters.dsl.php --my-test-parameter="Value From a Parameter"
 
 
 
