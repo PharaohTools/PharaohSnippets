@@ -1,12 +1,5 @@
-Logging log
-  log-message "Lets disable Firewall to change settings"
-
-Firewall disable
-
-Logging log
-  log-message "Lets deny all input"
-
 Firewall default
+  label "Lets deny all input by default"
   policy "deny"
 
 Firewall allow
@@ -14,7 +7,7 @@ Firewall allow
   port "ssh/tcp"
 
 Firewall allow
-  log-message "Lets allow HTTP input"
+  label "Lets allow HTTP input"
   port "http/tcp"
 
 Firewall allow
