@@ -23,6 +23,10 @@ Using a Variable in a DSL
 
     ptconfigure auto x --af=variables/variables.dsl.php --vars=variables/my_variable_file.php
 
+Alternate Variable Syntax in a DSL
+
+    ptconfigure auto x --af=variables/alternate-syntax.dsl.php --vars=variables/my_variable_file.php
+
 Using a Parameter in a DSL
 
     ptconfigure auto x --af=parameters/parameters.dsl.php --my-test-parameter="Value From a Parameter"
@@ -137,6 +141,11 @@ Ensure a Service is running
 Ensure a Service will run after reboot
 
     ptconfigure auto x --af=service_reboots/service-reboots.dsl.php
+
+
+Enable Firewall for all but HTTP, HTTPS and SSH
+
+    ptconfigure auto x --af=webserver_firewall/set_firewall.dsl.php
 
 
 
